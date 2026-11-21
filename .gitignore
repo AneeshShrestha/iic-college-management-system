@@ -1,0 +1,16 @@
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Environment and Secrets (for future backend)
+.env
+.env.local
+
+# Dependencies (for future Node.js modules)
+node_modules/
+npm-debug.log*
+
+# IDE and Editor Cache
+.vscode/
+.idea/
